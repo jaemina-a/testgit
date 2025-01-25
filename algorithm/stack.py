@@ -1,1 +1,1 @@
-print("this is a stack algorithm first commit not push")
+print("this is a stack algorithm second commit not push")
